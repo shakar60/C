@@ -9,7 +9,7 @@ end)
 tool.Parent = game.Players.LocalPlayer.Backpack
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "shakar#6955";
+    Title = "Notification!";
     Text = "Made By shakar#6955";
 
 })
